@@ -1,48 +1,8 @@
-# Python
 venv/
 __pycache__/
-*.pyc
-*.pyo
-
-# Pyrogram / Telegram
 *.session
-*.session-journal
-
-# Environment / Secrets
-.env
-config.py
 cconfig.py
-
-# FFmpeg temporary & output files
-temp/
-tmp/
-segments/
-edited/
-output/
-final/
 screenshots/
 videos/
 thumbnails/
-
-# Media files (generated)
-*.mp4
-*.mkv
-*.avi
-*.mov
-*.webm
-*.jpg
-*.png
-
-# Logs
-*.log
-
-# Shell scripts
 *.sh
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
